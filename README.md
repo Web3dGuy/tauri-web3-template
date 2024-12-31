@@ -12,7 +12,8 @@ To run this project, you will need to add the following environment variables to
 `VITE_TEMPLATE_TOKEN_NAME`
 `VITE_TEMPLATE_TOKEN_SYMBOL`
 
-To learn how to create a client ID, refer to the [client documentation](https://portal.thirdweb.com/typescript/v5/client). 
+Get Your Client ID
+Log in to the [thirdweb dashboard](https://thirdweb.com/team) . Create a new project to get your Client ID.
 
 ```bash
 npm install
